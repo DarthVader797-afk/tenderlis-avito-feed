@@ -1,0 +1,5 @@
+old_feed_markoos.xml
+__pycache__/
+*.py
+*.csv
+cities.json
